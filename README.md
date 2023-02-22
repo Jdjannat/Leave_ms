@@ -13,7 +13,13 @@ This leave management system has some basic features such as leave requests, lea
 - Laravel Framework 8.75.0
 - MySQL
 
+## Project installation steps
 
+- Step 1 : composer Install
+- Step 2 : composer update
+- Step 3 : composer dumpa
+- Step 4 : php artisan key:generate
+- Step 5 : php artisan migrate:refresh --seed
 
 ## Credentials
 - Username:- **Jaianm**
