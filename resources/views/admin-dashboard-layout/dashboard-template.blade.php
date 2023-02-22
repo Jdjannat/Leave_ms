@@ -32,7 +32,8 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center">
-                {{-- <div class="sidebar-brand-text mx-3">DreamSpace Academy</div> --}}
+                <div class="sidebar-brand-text mx-3"><img style="width: 45px;" src="{{asset('login-template/images/jd.jpg')}}">
+                    JD LeaveMs</div>
             </a>
 
             <!-- Divider -->

@@ -39,7 +39,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-6 log-det">
                             <div class="d-flex align-items-center justify-content-center">
-                                {{-- <img src="{{asset('login-template')}}/images/logo.png"> --}}
+                                <img src="{{asset('login-template/images/jd.jpg')}}">
                             </div>
                             <h2 class="mb-3">Leave Management System </h2>
                             <div class="text-box-cont mt-3">

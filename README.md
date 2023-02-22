@@ -1,6 +1,6 @@
-# DreamSpace Leave Management System
+# JD Leave Management System
 
-![](github-readme-content/banner-image-new.jpg)  
+![](github-readme-content/admin.png)  
 
 
 ## Introduction
@@ -13,30 +13,6 @@ This leave management system has some basic features such as leave requests, lea
 - Laravel Framework 8.75.0
 - MySQL
 
-
-## Configuration and Setup
-
-This management system is written in Laravel framework. The database is written as a migration file where we can trigger that migration script to deploy the database automatically.
-
-### Database Migrations
-
-#### Step 1:
-- Create an empty database in the MySQL with the name of **dsa_leave_management**
-
-![](github-readme-content/create-database.jpg)  
-
-
-#### Step 2:
-
-- Navigate to the project folder using CMD / Terminal / cPanel SSH.
-
-![](github-readme-content/cmd.jpg)  
-
-- Execute the bellow command to migrate the database.
-
-  ```
-    php artisan migrate
-  ```
 
 
 ## Credentials
@@ -66,7 +42,7 @@ The admin dashboard shows up the requested leaves from staffs, here, admin can d
 - Accept leave requests
 - Decline leave requests
 
-![](github-readme-content/admin-dashboard.jpg)
+![](github-readme-content/admin_dash.png)
 
 
 ### Admin - Staff Management
@@ -80,7 +56,7 @@ This admin staff management is the place where the staff details are stored and 
 - Display staff details
 - Proper popup messages for deletion, update and Insertion.
 
-![](github-readme-content/staff-management.jpg)
+![](github-readme-content/staff_man.png)
 
 ### Admin - Leave Management
 
@@ -90,7 +66,7 @@ This admin leave management is the place where the leave records are stored and 
 - Display all leave reports
 - Filter search option - filters leaves records.
 
-![](github-readme-content/leave-management.gif)
+![](github-readme-content/admin11.png)
 
 ### Admin - User Accounts
 
@@ -102,18 +78,10 @@ This admin user account module is the place where staff user accounts are create
 - Admin can delete user accounts of staffs.
 
 
-![](github-readme-content/user-accounts.gif)
 
 ### Admin - Settings
 
 This admin setting module is the place where the admin password and username could be changed.
-
-#### Features
-- Change username of admin
-- Change password of admin
-
-
-![](github-readme-content/admin-settings.jpg)
 
 
 ### Staff - Dashboard
@@ -124,7 +92,7 @@ This staff dashboard module is the place where the staff can send leave request 
 - Request leaves
 - Delete pending leave requests
 
-![](github-readme-content/staff-dashboard.gif)
+![](github-readme-content/staff_dash.png)
 
 ### Staff - My Leave History
 
@@ -134,19 +102,9 @@ This module is the place where the leave records are stored and maintained of a 
 - Display all leave reports of the staff
 - Filter search option - filters leaves records.
 
-![](github-readme-content/my-leave-history.gif)
+![](github-readme-content/staff_leave.png)
 
 
-### Staff - Settings
-
-This staff setting module is the place where the staff password and username could be changed.
-
-#### Features
-- Change username of admin
-- Change password of admin
-
-
-![](github-readme-content/staff-settings.jpg)
 
 
 
