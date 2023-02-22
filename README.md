@@ -104,7 +104,7 @@ This module is the place where the leave records are stored and maintained of a 
 
 ![](github-readme-content/staff_leave.png)
 
-
+**Developed by Jainam Darji**
 
 
 
